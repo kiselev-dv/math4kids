@@ -27,22 +27,23 @@ But I didn't find a good one for fractions, so I did it myself.
   Например: закрасить 3 часа, но не с часу до трех, а с четырех до шести.
 
     <div fraction="3/12 3" class="pie"></div>
-
+    
 2. `applyTasks()` - Вторая директива генерирует задание по описанию. Так запись
 
     <div class="task-def" replace>nameit 1/4</div>
 
   будет развернута в задание вида `дробь в виде круга` = `дробь с чертой`
-  с клуточками куда надо вписать числитель и знаменатель.
+  с клеточками куда надо вписать числитель и знаменатель.
 
 Директивы применяются не автоматически, в конце документа вам надо вызвать их
 вручную:
 
+```html
   <script>
     applyTasks()
     applyPies();
   </script>
-
+```
 
 ## Dev notes
 
@@ -70,7 +71,9 @@ But I didn't find a good one for fractions, so I did it myself.
 
 Directives aren't applies automatically, please call them manually like this:
 
+```html
   <script>
     applyTasks()
     applyPies();
   </script>
+```
