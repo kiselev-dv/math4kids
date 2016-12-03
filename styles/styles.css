@@ -1,0 +1,61 @@
+div.pie {
+    width: 200px;
+    height: 200px;
+    float: left;
+    margin-right: 10px;
+    vertical-align: baseline;
+}
+
+div.inline-text {
+    font-size: 40px;
+    height: 200px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 200px;
+    float: left;
+    margin-right: 10px;
+}
+
+div.line:after{
+    content: '';
+    display: block;
+    clear: both;
+}
+
+.clear {
+    content: '';
+    display: block;
+    clear: both;
+}
+
+div.task {
+    margin-bottom: 10px;
+    padding-right: 40px;
+    display: table-cell;
+}
+
+div.task.line {
+    display:block;
+}
+
+div.nameit {
+    width: 80px;
+}
+
+.inp-line {
+    border-bottom: 2px solid black;
+    width: 80px;
+}
+
+.task input {
+    margin-top: 5px;
+    margin-bottom: 5px;
+    height: 80px;
+    font-size: 70px;
+    width: 80px;
+    text-align: center;
+}
+
+.task input:first-of-type {
+    margin-top: 12px;
+}
