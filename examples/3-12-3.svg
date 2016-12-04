@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svgjs="http://svgjs.com/svgjs"
+    xmlns:xlink="http://www.w3.org/1999/xlink" id="SvgjsSvg1168" width="200" height="200" version="1.1">
+   <defs id="SvgjsDefs1169" />
+   <circle id="SvgjsCircle1170" r="99" cx="100" cy="100" stroke="black" stroke-width="2" fill-opacity="0" class="circle" />
+   <path id="SvgjsPath1171" d="M100 100L198 100A98 98 0 0 1 100 198Z " class="a" fill-opacity="0.2" />
+   <path id="SvgjsPath1172" d="M100 100L100 2 " stroke="#000000" stroke-width="1" stroke-opacity="0.5" class="tics" />
+   <path id="SvgjsPath1173" d="M100 100L149 15.12951042912502 " stroke="#000000" stroke-width="1" stroke-opacity="0.5" class="tics" />
+   <path id="SvgjsPath1174" d="M100 100L184.870489570875 51.00000000000001 " stroke="#000000" stroke-width="1" stroke-opacity="0.5" class="tics" />
+   <path id="SvgjsPath1175" d="M100 100L198 100 " stroke="#000000" stroke-width="1" stroke-opacity="0.5" class="tics" />
+   <path id="SvgjsPath1176" d="M100 100L184.870489570875 149 " stroke="#000000" stroke-width="1" stroke-opacity="0.5" class="tics" />
+   <path id="SvgjsPath1177" d="M100 100L149 184.87048957087498 " stroke="#000000" stroke-width="1" stroke-opacity="0.5" class="tics" />
+   <path id="SvgjsPath1178" d="M100 100L100 198 " stroke="#000000" stroke-width="1" stroke-opacity="0.5" class="tics" />
+   <path id="SvgjsPath1179" d="M100 100L51.00000000000002 184.870489570875 " stroke="#000000" stroke-width="1" stroke-opacity="0.5" class="tics" />
+   <path id="SvgjsPath1180" d="M100 100L15.129510429125006 149 " stroke="#000000" stroke-width="1" stroke-opacity="0.5" class="tics" />
+   <path id="SvgjsPath1181" d="M100 100L2 100.00000000000001 " stroke="#000000" stroke-width="1" stroke-opacity="0.5" class="tics" />
+   <path id="SvgjsPath1182" d="M100 100L15.12951042912502 50.999999999999986 " stroke="#000000" stroke-width="1" stroke-opacity="0.5" class="tics" />
+   <path id="SvgjsPath1183" d="M100 100L50.99999999999996 15.129510429125034 " stroke="#000000" stroke-width="1" stroke-opacity="0.5" class="tics" />
+</svg>
