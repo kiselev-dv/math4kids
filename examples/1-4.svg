@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:svgjs="http://svgjs.com/svgjs"
+    xmlns:xlink="http://www.w3.org/1999/xlink" id="SvgjsSvg1019" width="200" height="200" version="1.1">
+   <defs id="SvgjsDefs1020" />
+   <circle id="SvgjsCircle1021" r="99" cx="100" cy="100" stroke="black" stroke-width="2" fill-opacity="0" class="circle" />
+   <path id="SvgjsPath1022" d="M100 100L100 2A98 98 0 0 1 198 100Z " class="a" fill-opacity="0.2" />
+   <path id="SvgjsPath1023" d="M100 100L100 2 " stroke="#000000" stroke-width="1" stroke-opacity="0.5" class="tics" />
+   <path id="SvgjsPath1024" d="M100 100L198 100 " stroke="#000000" stroke-width="1" stroke-opacity="0.5" class="tics" />
+   <path id="SvgjsPath1025" d="M100 100L100 198 " stroke="#000000" stroke-width="1" stroke-opacity="0.5" class="tics" />
+   <path id="SvgjsPath1026" d="M100 100L2 100.00000000000001 " stroke="#000000" stroke-width="1" stroke-opacity="0.5" class="tics" />
+</svg
