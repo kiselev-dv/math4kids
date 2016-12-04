@@ -27,8 +27,9 @@ But I didn't find a good one for fractions, so I did it myself.
   Например: закрасить 3 часа, но не с часу до трех, а с четырех до шести.
 
     <div fraction="3/12 3" class="pie"></div>
-    
-  ![3/12 3](https://rawgit.com/kiselev-dv/math4kids/master/examples/3-12-3.svg)
+  
+  
+  ![3/12 3](https://rawgit.com/kiselev-dv/math4kids/bf46e32a545bd2ce2d110af02a143bfe1e884dd1/examples/3-12-3.svg)
     
 2. `applyTasks()` - Вторая директива генерирует задание по описанию. Так запись
 
@@ -63,6 +64,9 @@ But I didn't find a good one for fractions, so I did it myself.
   but from four till six.
 
     <div fraction="3/12 3" class="pie"></div>
+  
+  
+  ![3/12 3](https://rawgit.com/kiselev-dv/math4kids/bf46e32a545bd2ce2d110af02a143bfe1e884dd1/examples/3-12-3.svg)
 
 2. `applyTasks()` - Second directive, generates gui for 1 task. This example
 
