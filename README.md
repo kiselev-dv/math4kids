@@ -28,6 +28,8 @@ But I didn't find a good one for fractions, so I did it myself.
 
     <div fraction="3/12 3" class="pie"></div>
     
+  ![3/12 3](https://rawgithub.com/kiselev-dv/math4kids/master/examples/3-12-3.svg)
+    
 2. `applyTasks()` - Вторая директива генерирует задание по описанию. Так запись
 
     <div class="task-def" replace>nameit 1/4</div>
