@@ -1,6 +1,8 @@
 # math4kids
 Math quiz generators for kids
 
+https://rawgit.com/kiselev-dv/math4kids/master/index.html
+
 ## Что это?
 Моя дочь любит решать примеры по математике.
 Обычно мы покупаем книжечки с заданиями.
